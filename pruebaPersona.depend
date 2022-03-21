@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1647896465 source:c:\users\maria\gitproyectos\prueba\pruebapersona\src\persona.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Persona.h"
+	<iostream>
+
+1647896441 c:\users\maria\gitproyectos\prueba\pruebapersona\include\persona.h
+	<iostream>
+
+1647886242 source:c:\users\maria\gitproyectos\prueba\pruebapersona\main.cpp
+	<iostream>
+	"Persona.h"
+
