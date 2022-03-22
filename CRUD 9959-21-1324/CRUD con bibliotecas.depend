@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1647884479 source:c:\users\jawic\proyectofinal\proyectop1equipo4\crud bibliotecas\crud con bibliotecas\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"persona.h"
+
+1647885158 source:c:\users\jawic\proyectofinal\proyectop1equipo4\crud bibliotecas\crud con bibliotecas\src\persona.cpp
+	"persona.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+
+1647885158 c:\users\jawic\proyectofinal\proyectop1equipo4\crud bibliotecas\crud con bibliotecas\include\persona.h
+	<string>
+
+1647886503 source:c:\users\jawic\desktop\crud con bibliotecas\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"persona.h"
+
+1647890971 c:\users\jawic\desktop\crud con bibliotecas\include\persona.h
+	<string>
+
