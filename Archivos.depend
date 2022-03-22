@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1647906705 source:c:\users\nelso\proyectos\tareas\tareas\archivos\main.cpp
+	<iostream>
+	"persona.h"
+
+1647906705 c:\users\nelso\proyectos\tareas\tareas\archivos\persona.h
+	<iostream>
+
+1647906802 source:c:\users\nelso\proyectos\tareas\tareas\archivos\persona.cpp
+	"persona.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<iostream>
+
