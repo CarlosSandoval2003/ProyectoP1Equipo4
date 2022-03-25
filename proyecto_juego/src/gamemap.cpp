@@ -46,7 +46,7 @@ bool gamemap::setPlayerCell(int playerX, int playerY)
             //playerCell = &cell[playerY][playerX];
             playerCell = &cell[playerX][playerY];
             //Simbolo del jugador en el mapa
-            playerCell->id=169; //ascii 169
+            playerCell->id=156; //ascii 156
         }
 
         return true;
