@@ -43,3 +43,76 @@
 	<iostream>
 	<fstream>
 
+<<<<<<< HEAD
+1648221303 source:c:\users\jawic\proyectofinal\proyectop1equipo4\proyecto_juego\main.cpp
+=======
+1648247293 source:c:\users\mey\proyectos\proyectofinal\proyectop1equipo4\preliminar g4\main.cpp
+>>>>>>> origin/laboratorio_g4_caracteres
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+<<<<<<< HEAD
+1648221303 c:\users\jawic\proyectofinal\proyectop1equipo4\proyecto_juego\include\player.h
+
+1648221303 c:\users\jawic\proyectofinal\proyectop1equipo4\proyecto_juego\include\mapcell.h
+
+1648221303 c:\users\jawic\proyectofinal\proyectop1equipo4\proyecto_juego\include\gamemap.h
+	"mapcell.h"
+
+1648221303 source:c:\users\jawic\proyectofinal\proyectop1equipo4\proyecto_juego\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648221303 source:c:\users\jawic\proyectofinal\proyectop1equipo4\proyecto_juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648221303 source:c:\users\jawic\proyectofinal\proyectop1equipo4\proyecto_juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1648222856 source:c:\users\maria\gitproyectos\proyectoprogra\proyectop1equipo4\proyecto_juego\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1648222856 c:\users\maria\gitproyectos\proyectoprogra\proyectop1equipo4\proyecto_juego\include\player.h
+
+1648222856 c:\users\maria\gitproyectos\proyectoprogra\proyectop1equipo4\proyecto_juego\include\mapcell.h
+
+1648222856 c:\users\maria\gitproyectos\proyectoprogra\proyectop1equipo4\proyecto_juego\include\gamemap.h
+	"mapcell.h"
+
+1648222856 source:c:\users\maria\gitproyectos\proyectoprogra\proyectop1equipo4\proyecto_juego\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648222856 source:c:\users\maria\gitproyectos\proyectoprogra\proyectop1equipo4\proyecto_juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648223830 source:c:\users\maria\gitproyectos\proyectoprogra\proyectop1equipo4\proyecto_juego\src\player.cpp
+=======
+1648247293 c:\users\mey\proyectos\proyectofinal\proyectop1equipo4\preliminar g4\include\player.h
+
+1648247293 c:\users\mey\proyectos\proyectofinal\proyectop1equipo4\preliminar g4\include\mapcell.h
+
+1648247293 c:\users\mey\proyectos\proyectofinal\proyectop1equipo4\preliminar g4\include\gamemap.h
+	"mapcell.h"
+
+1648247293 source:c:\users\mey\proyectos\proyectofinal\proyectop1equipo4\preliminar g4\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648247293 source:c:\users\mey\proyectos\proyectofinal\proyectop1equipo4\preliminar g4\src\player.cpp
+>>>>>>> origin/laboratorio_g4_caracteres
+	"player.h"
+	<iostream>
+	<fstream>
+

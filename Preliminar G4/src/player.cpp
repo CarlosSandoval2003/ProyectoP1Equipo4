@@ -64,10 +64,11 @@ void player::callInput()
         //cout << "El jugador se mueve izquierda" << endl;
         break;
     case 'x':
-        cout << " -- Juego Terminado -- :(" << endl << endl;
+        cout << " -- Gracias por jugar, el juego ha terminado. G4 -- :(" << endl << endl;
         drawCreditos();
         cout << endl;
         exit(0);
+
     }
     //cout << "El jugador esta en las coordenadas -> " << "X=" << x << " Y=" << y << " GuardaX=" << lastX << "GuardaY=" << lastY << endl;
 }

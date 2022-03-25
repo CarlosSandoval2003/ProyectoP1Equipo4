@@ -1,10 +1,10 @@
 Equipo de Desarrollo:
    Equipo -----> G1
-   Integrante 1:  Juan Ejemplo - Portada
-   Integrante 2:  Juan Ejemplo - Premios
-   Integrante 3:  Juan Ejemplo - Caracteres
-   Integrante 4:  Juan Ejemplo - Mensaje Final
-   Integrante 5:  Juan Ejemplo - Creditos
+   Integrante 1:  Carlos Sandoval - Portada
+   Integrante 2:  Nelson Pineda - Premios
+   Integrante 3:  Meyglin Rosales - Caracteres
+   Integrante 4:  Maria Jose Veliz - Mensaje Final
+   Integrante 5:  Carlos Sandoval - Creditos
 
 
 
